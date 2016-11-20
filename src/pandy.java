@@ -1409,7 +1409,7 @@ public class pandy extends JFrame {
                     panel11.add(label99, new GridBagConstraints(0, 1, 1, 1, 0.0, 0.0,
                             GridBagConstraints.CENTER, GridBagConstraints.BOTH,
                             new Insets(0, 0, 0, 0), 0, 0));
-                    author.setText("Wizzer.cn");
+                    author.setText("fKong");
                     panel11.add(author, new GridBagConstraints(1, 1, 2, 1, 0.0, 0.0,
                             GridBagConstraints.CENTER, GridBagConstraints.BOTH,
                             new Insets(0, 0, 0, 0), 0, 0));
@@ -1420,7 +1420,7 @@ public class pandy extends JFrame {
                     panel11.add(label8, new GridBagConstraints(0, 2, 1, 1, 0.0, 0.0,
                             GridBagConstraints.CENTER, GridBagConstraints.BOTH,
                             new Insets(0, 0, 0, 0), 0, 0));
-                    syspage.setText("cn.wizzer.modules");
+                    syspage.setText("com.goku.lm.modules");
                     syspage.setEditable(true);
                     panel11.add(syspage, new GridBagConstraints(1, 2, 2, 1, 0.0, 0.0,
                             GridBagConstraints.CENTER, GridBagConstraints.BOTH,
